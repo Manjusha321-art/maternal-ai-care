@@ -52,7 +52,7 @@ An AI-powered pregnancy risk prediction system that analyzes patient health para
 ---
 
 ## 🌐 Live Demo
-
+https://maternal-ai-care-pyugutxrer7ypzy8jndkvb.streamlit.app/
 
 ---
 
